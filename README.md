@@ -16,6 +16,6 @@
 
 
 ### Interested in <br> 
-iosApp development, android development, Web, Mobile <br><br>
+iOS Development, Android Development, Web, Mobile <br><br>
 
 ![KimDaeSeong8721's github stats](https://github-readme-stats.vercel.app/api?username=KimDaeSeong8721&show_icons=true)
