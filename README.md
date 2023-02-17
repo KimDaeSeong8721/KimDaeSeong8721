@@ -4,6 +4,7 @@
 
 - IOS Software engineer. <br>
 - bachelor of arts Electronic Information Engineering expected in  <br>
+- Naver WorksMobile Intern
 - Apple Developer Academy @ POSTECH Learner <br>
 - WWDC 2022 Swift Student Challenge Winner <br><br>
 
