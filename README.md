@@ -11,8 +11,10 @@
 ### Tech Stack <br>
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/SwiftUI-004088?style=flat-square&logo=Swift&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"></a>
 
 
